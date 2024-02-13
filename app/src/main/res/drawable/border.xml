@@ -1,0 +1,9 @@
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <solid android:color="#00254BA8" /> <!-- Warna latar belakang -->
+    <corners android:radius="50dp" /> <!-- Radius sudut tombol -->
+    <stroke
+        android:width="2dp"
+        android:color="#254BA8" />
+</shape>
